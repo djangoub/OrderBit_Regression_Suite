@@ -1,0 +1,33 @@
+1668741866376	geckodriver	INFO	Listening on 127.0.0.1:51285
+1668741866608	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51286" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofileSmkMib"
+2022-11-18 08:54:31.356 firefox-bin[30295:1684819] Unable to install helper!
+WebDriver BiDi listening on ws://127.0.0.1:51286
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51286/devtools/browser/f24bb2fb-3912-40ea-8957-e7a7b29a2a15
+[2022-11-18T03:24:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2022-11-18T03:24:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2022-11-18T03:24:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+1668741898862	geckodriver	INFO	Listening on 127.0.0.1:51482
+1668741899291	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51483" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofilem9qDOD"
+1668741899599	Marionette	INFO	Marionette enabled
+1668741899618	Marionette	INFO	Listening on port 51494
+WebDriver BiDi listening on ws://127.0.0.1:51483
+Read port: 51494
+1668741899771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofilem9qDOD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51483/devtools/browser/b2308f9f-93dc-49c9-9444-fcf6a6e06982
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1668741909326	Marionette	INFO	Stopped listening on port 51494
+1668749129782	geckodriver	INFO	Listening on 127.0.0.1:61710
+1668749130207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61711" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofileqN64hA"
+1668749130588	Marionette	INFO	Marionette enabled
+1668749130610	Marionette	INFO	Listening on port 61722
+Read port: 61722
+WebDriver BiDi listening on ws://127.0.0.1:61711
+1668749130743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofileqN64hA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61711/devtools/browser/0dcc5569-cc77-40a0-8b81-f3b6564b08f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1668749137074	Marionette	INFO	Stopped listening on port 61722
