@@ -8,3 +8,5 @@ class Exception_Page(BasePage):
         super().__init__(driver)
         self._driver = driver
 
+
+

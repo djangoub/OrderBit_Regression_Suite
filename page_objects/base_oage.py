@@ -21,7 +21,7 @@ class BasePage:
         self._wait_until_element_available(locator, time)
         self._find(locator).click()
 
-    def _wait_until_element_available(self, locator: tuple, time: int = 10):
+    def _wait_until_element_available(self, locator: tuple, time: int = 15):
         wait = WebDriverWait(self._driver, time)
         wait.until(ec.visibility_of_element_located(locator))
 
@@ -41,3 +41,4 @@ class BasePage:
     def get_text(self, locator: tuple, time: int = 10):
         self._wait_until_element_available(locator, time)
         return self._find(locator).text
+

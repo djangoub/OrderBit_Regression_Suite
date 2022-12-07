@@ -31,3 +31,50 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:61711/devtools/browser/0dcc5569-cc77-40a0-8b81-f3b6564b08f2
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
 1668749137074	Marionette	INFO	Stopped listening on port 61722
+1670393522324	geckodriver	INFO	Listening on 127.0.0.1:58650
+1670393522729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58651" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofilepgQWws"
+1670393523118	Marionette	INFO	Marionette enabled
+1670393523180	Marionette	INFO	Listening on port 58662
+Read port: 58662
+WebDriver BiDi listening on ws://127.0.0.1:58651
+1670393523280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofilepgQWws/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58651/devtools/browser/711a0093-16ec-4d5f-9034-8529e2b73eb8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://iqbro.orderbit.app."
+1670393527546	Marionette	INFO	Stopped listening on port 58662
+1670393550347	geckodriver	INFO	Listening on 127.0.0.1:58821
+1670393550781	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58822" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofile8rwoeH"
+1670393551098	Marionette	INFO	Marionette enabled
+1670393551123	Marionette	INFO	Listening on port 58833
+WebDriver BiDi listening on ws://127.0.0.1:58822
+Read port: 58833
+1670393551272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofile8rwoeH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58822/devtools/browser/cd0c3d00-946c-40e6-af97-4a2d46142c1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://iqbro.orderbit.app."
+1670393553249	Marionette	INFO	Stopped listening on port 58833
+1670393601039	geckodriver	INFO	Listening on 127.0.0.1:59075
+1670393601465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59076" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofileTm7uKC"
+1670393601837	Marionette	INFO	Marionette enabled
+1670393601863	Marionette	INFO	Listening on port 59087
+Read port: 59087
+WebDriver BiDi listening on ws://127.0.0.1:59076
+1670393601979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofileTm7uKC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59076/devtools/browser/9cf04314-55a8-4159-82bd-453b6d9e47b8
+1670393609237	Marionette	INFO	Stopped listening on port 59087
+1670393642078	geckodriver	INFO	Listening on 127.0.0.1:59290
+1670393642500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59291" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofileutt7MG"
+1670393642832	Marionette	INFO	Marionette enabled
+1670393642859	Marionette	INFO	Listening on port 59302
+Read port: 59302
+WebDriver BiDi listening on ws://127.0.0.1:59291
+1670393642983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1y/nh0wx4zn3v585bbx3zptvm9m0000gn/T/rust_mozprofileutt7MG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59291/devtools/browser/76251360-527a-455e-9e8b-1dd3ca74ec56
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://iqbro.orderbit.app."
+1670393646325	Marionette	INFO	Stopped listening on port 59302
